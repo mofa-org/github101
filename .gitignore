@@ -1,0 +1,69 @@
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+*~
+
+# Editor directories and files
+.idea
+.vscode
+*.swp
+*.swo
+*.swn
+.project
+.classpath
+.settings/
+*.sublime-workspace
+*.sublime-project
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+*.bak
+*.backup
+
+# Node.js (if any student adds JavaScript examples)
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+yarn.lock
+
+# Python (if any student adds Python examples)
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+*.egg-info/
+dist/
+build/
+
+# Build outputs
+dist/
+build/
+*.o
+*.a
+*.exe
+*.dll
+*.dylib
+
+# IDE specific
+.idea/
+*.iml
+.vscode/
+
+# Misc
+.cache/
+.pytest_cache/
+.coverage
+htmlcov/
